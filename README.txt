@@ -1,7 +1,6 @@
 Parallelism by HTML5 UP
 html5up.net | @ajlkn
 
-http://ineedchemicalx.deviantart.com/
 
 (* = Not included! Only meant for use with my own on-site demo, so please do NOT download
 and/or use any of Felicia's work without her explicit permission!)
